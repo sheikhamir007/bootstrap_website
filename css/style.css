@@ -1,0 +1,48 @@
+*{
+    margin: 0 auto;
+    padding: 0 auto;
+    box-sizing: border-box;
+}
+
+/* menu-part */
+
+
+
+
+/* banner part  */
+
+
+.bg{
+    background-color:#212529;
+    height:450px;
+}
+
+.image-area{
+    width: 90%;
+    height: 250px;
+    margin-top: 90px;
+    margin-left: 20px;
+
+
+}
+
+.image-area img{
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.banner_data {
+    color:white;
+}
+
+.banner_data h1{
+    font-size: 50px;
+    font-weight: bold;
+    padding: 100px 0px 15px 0px ;
+}
+
+.banner_data p{
+    font-size:18px;
+    color:#90928E;
+}
