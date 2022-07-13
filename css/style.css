@@ -39,10 +39,97 @@
 .banner_data h1{
     font-size: 50px;
     font-weight: bold;
-    padding: 100px 0px 15px 0px ;
+    padding: 100px 0px 15px 0px;
 }
 
 .banner_data p{
     font-size:18px;
     color:#90928E;
 }
+
+.banner-button a {
+    color:white;
+    text-decoration: none;
+    text-transform: capitalize;
+}
+
+.get{
+    padding: 13px 36px;
+    color: white;
+    background-color: #0D6EFD;
+    border-radius: 6px;
+    font-size: 18px;
+    margin-right: 15px;
+    transition: .2s;
+    
+
+}
+
+.get:hover{
+    background-color: #074eb7eb;
+   
+}
+
+.learn {
+    padding: 13px 36px;
+    color: white;
+    border-radius: 6px;
+    font-size: 18px;
+    border: 1px solid white;
+    transition: .2s;
+}
+
+.learn:hover{
+    background-color: white;
+    color: black;
+
+}
+
+
+.banner-button{
+    margin-top: 40px
+}
+
+/* slider-area  */
+
+.slider-hight{
+    height:300px;
+}
+
+.carousel-item img{
+    height:300px;
+}
+
+.margin-area{
+    margin:20px;
+}
+
+
+/* ceo-part  */
+
+.ceo-data {
+    text-align: center;
+    font-style: italic;
+    padding: 101px 316px 0px 316px;
+    font-size: 21px;
+}
+
+.ceo-name{
+    text-align:center;
+    display: inline-block;
+    padding-bottom: 80px;
+}
+
+.ceo-name span{
+    font-weight: bold;
+    font-size: 15px;
+    padding-left:10px;
+    font-style: important;
+}
+
+.slash {
+    color: rgb(255, 0, 102);
+    padding-right: 7px;
+    padding-left: 5px;
+}
+
