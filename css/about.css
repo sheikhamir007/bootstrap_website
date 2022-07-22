@@ -1,0 +1,115 @@
+.our-mission-data{
+    text-align: center;
+    padding: 90px 300px 90px 300px;
+}
+
+.our-mission-data h4 {
+    font-size: 33px;
+    font-weight: bold;
+}
+
+.our-mission-data p {
+    color: #6C757D;
+    font-size: 17px;
+    margin-bottom: 24px;
+}
+
+.our-button{
+    background-color: #0d6efd;
+    color: white;
+    padding: 12px 26px;
+    border-radius: 5px;
+    border-color: #0d6efd;
+    width: 168px;
+    margin-left: 179px;
+    font-size: 17px;
+    text-transform: capitalize;
+}
+
+.second-part-img img{
+    width: 470px;
+    height: 300px;
+    border-radius: 6px;
+}
+
+.second-part-img{
+    padding: 100px 0px 100px 50px;
+}
+
+.bg-color{
+    background-color: #F8F9FA;
+}
+
+.second-part-data {
+    padding-top: 160px;
+}
+
+.second-part-data h4 {
+    font-size: 35px;
+    font-weight: bold;
+}
+
+
+.second-part-data p {
+    font-size: 18px;
+    color: #6C757D;
+}
+
+
+.img-circle{
+    width: 150px;
+    height: 150px;
+    border-radius: 85px;
+    background-color: #0d6efd;
+    margin-left: 55px;
+}
+
+.team-area{
+    text-align: center;
+    padding-top: 30px;
+}
+
+.team-data{
+    padding-top: 100px;
+}
+
+.team-data h4{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.team-data p{
+    font-size: 22px;
+    color: #6C757D;
+}
+
+.team-person-data h4{
+    padding-top: 25px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+.team-person-data h5{
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    color: #6C757D;
+}
+
+.padding-bottom {
+    padding-bottom: 100px;
+}
+
+/* footer area  */
+
+.bg-footer{
+    background-color: #212529;
+    color: aliceblue;
+    height: 60px;
+    line-height: 60px;
+}
+
+.footer-link{
+    text-align: right;
+}

@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+
 }
 
 body{
@@ -203,4 +204,29 @@ body{
 /* product-bg  */
 .product-bg{
     background-color:#247CFD ;
+    border-radius: 5px;
 }
+
+.product-data{
+    padding: 50px 57px 50px 57px;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.product-data h3{
+    color: #ffffff;
+    font-weight:bold;
+   
+}
+
+.product-data p{
+    color:#8ABDFE;
+}
+
+.product-para{
+    margin-bottom: 0px;
+}
+
+
+/* about page **************  */
+
