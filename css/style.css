@@ -230,3 +230,71 @@ body{
 
 /* about page **************  */
 
+
+
+/* blog-area  */
+
+.blog-area p{
+    font-size: 18px;
+    padding: 0px 352px;
+    color: #6C757D;
+    padding-bottom: 20px;
+}
+
+
+.card h5{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.blog-tag{
+    background-color: #0D6EFD;
+    color: #ffffff;
+    padding: 3px 8px;
+    border-radius: 10px;
+    font-size: 11px;
+
+}
+
+.blog-user{
+    position: relative;
+    padding:0px 20px;
+}
+
+.user-data{
+    position: absolute;
+    right: 81px;
+    bottom: 5px;
+}
+
+.user-data h4{
+    font-size: 14px;
+    font-weight: bold;
+   
+}
+
+.user-img img{
+    border-radius: 50px;
+}
+
+.user-data p{
+    font-size: 13px;
+    color: #6C757D;
+}
+
+.padding-bottom-blog{
+    padding-bottom: 20px;
+}
+
+.padding-bottom-card{
+    padding-bottom: 70px;
+}
+
+.card{
+    border: 0px;
+    box-shadow: 0px 4px 6px rgb(0 0 0 / 15%);
+}
+
